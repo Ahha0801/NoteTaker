@@ -1,7 +1,7 @@
 # NoteTaker
 
 ## Criteria 
-GIVEN a note-taking application
+-GIVEN a note-taking application
 WHEN I open the Note Taker
 THEN I am presented with a landing page with a link to a notes page
 WHEN I click on the link to the notes page
@@ -33,10 +33,10 @@ Node.js
 Express.js
 Uniqid
 
-# ScreenShot 
+ScreenShot 
+<img width="1555" alt="Image" src="https://github.com/Ahha0801/NoteTaker/assets/128229173/dd02b63d-0de3-4ac7-bc57-1392a9e7bc5a">
 
-
-# Video Demo 
+Video Demo 
 
 
 
